@@ -1,0 +1,15 @@
+/******************************************  TIENDA IONIC ************************************************/
+
+npm install
+npm install @ionic/lab
+ionic generate provider Producto      --> crear el servicio
+ionic g page detalle-producto --no-module --> 
+
+IONIC DEPLOY ON ANDROID DEVICE
+
+GO TO C:\Users\Admin\AppData\Local\Android\Sdk\tools\bin
+
+Enter ./sdkmanager --licenses
+
+
+https://github.com/YOSOFT/tienda-ionic-archivos
